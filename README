@@ -6,3 +6,7 @@ git clone https://github.com/Hackers-Unit/HackersUN
 chmod +x hackers-uni-virus.py
 cd HackersUN
 python2 hackers-uni-virus.py
+
+
+
+Only for educational purposes
