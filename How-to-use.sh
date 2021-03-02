@@ -7,6 +7,7 @@ Use the command below to install HackersUN
 
 apt-get update && apt-get upgrade
 apt install python2
+apt install git
 git clone https://github.com/Hackers-Unit/HackersUN
 chmod +x hackers-uni-virus.py
 cd HackersUN
