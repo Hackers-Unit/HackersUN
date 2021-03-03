@@ -9,8 +9,8 @@ apt-get update && apt-get upgrade
 apt install python2
 apt install git
 git clone https://github.com/Hackers-Unit/HackersUN
-chmod +x hackers-uni-virus.py
 cd HackersUN
+chmod +x hackers-uni-virus.py
 python2 hackers-uni-virus.py
 
 After installing and starting the command 
